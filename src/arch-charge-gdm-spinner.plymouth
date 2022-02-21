@@ -4,7 +4,7 @@ Description=A theme based on Fedora's Charge theme, but featuring the ArchLinux 
 ModuleName=two-step
 
 [two-step]
-ImageDir=/usr/share/plymouth/themes/arch-charge-gdm
+ImageDir=/usr/share/plymouth/themes/arch-charge-gdm-spinner
 HorizontalAlignment=.5
 VerticalAlignment=.5
 Transition=none
