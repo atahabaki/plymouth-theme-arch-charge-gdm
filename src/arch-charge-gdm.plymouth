@@ -11,4 +11,13 @@ Transition=none
 TransitionDuration=0.0
 BackgroundStartColor=0x202020
 BackgroundEndColor=0x202020
+DialogHorizontalAlignment=.5
+DialogVerticalAlignment=.382
+TitleHorizontalAlignment=.5
+TitleVerticalAlignment=.382
+WatermarkHorizontalAlignment=.5
+WatermarkVerticalAlignment=.96
+ProgressBarBackgroundColor=0x606060
+ProgressBarForegroundColor=0xffffff
+MessageBelowAnimation=true
 
