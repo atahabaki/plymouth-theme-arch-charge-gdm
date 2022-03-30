@@ -15,8 +15,8 @@ sha512sums=('7c185eb17070d0289ac66e9bd4678e6b812899d92145266569a3de55dcd4164d')
 
 package() {
     cd $srcdir/$pkgname-$pkgver/src
-    mkdir -p $pkgdir/usr/share/plymouth/themes/arch-charge-gdm
-    install -Dm644 * "${pkgdir}"/usr/share/plymouth/themes/arch-charge-gdm
+    mkdir -p $pkgdir/usr/share/plymouth/themes/arch-charge-gdm-spinner
+    install -Dm644 * "${pkgdir}"/usr/share/plymouth/themes/arch-charge-gdm-spinner
 }
 
 
